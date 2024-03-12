@@ -1,0 +1,20 @@
+{
+  "name": "nft-chatbot-core",
+  "version": "1.0.1",
+  "description": "A core module for an NFT chatbot providing market insights and community interactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fourierfourier69/nft-chatbot-core"
+  },
+  "author": "fourierfourier69",
+  "license": "MIT"
+}
